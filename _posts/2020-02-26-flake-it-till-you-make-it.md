@@ -15,7 +15,7 @@ We mythologize our past because, by doing so, we build a more cohesive society. 
 
 	The political right in America has done a fantastic job at mythologizing the American historical narrative to support their political ends. In fact, I would argue that they have virtually monopolized this field for years. The American left has, of late, began to hit back. This takes two forms:
 	
-- The Howard Zinn Model: mythologizing history by portraying it as a series of struggles of the “little guy” against the “big bad guy”
-- The Hamilton model: mythologizing history by distorting the “big bad guys” and imposing politically progressive values upon them. 
+* The Howard Zinn Model: mythologizing history by portraying it as a series of struggles of the “little guy” against the “big bad guy”
+* The Hamilton model: mythologizing history by distorting the “big bad guys” and imposing politically progressive values upon them. 
 
 	I am of the belief that both of these historical mythologies are vital for the left to utilize and deploy, but broadly, I find the Hamilton model to be far more versatile. Americans are a people with a great deal of patriotism, and the right has deployed their version of this model with tremendous success. 
