@@ -13,7 +13,7 @@ author: Sineae
 
 navbar-links:
   About: "aboutme"
-  Featured Articles: "featured"
+  Featured Articles:
     - Economics, Government & History: "https://google.com"
     - Philosophy: "https://google.com"
     - Living the good life: "https://google.com" 
