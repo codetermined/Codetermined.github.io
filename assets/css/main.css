@@ -267,7 +267,9 @@ img {
   width: 100%;
   word-break: break-word;
 }
+
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
+  color: #FFFFFF;
   white-space: normal;
   padding: 0.625rem;
   background-color: {{ site.navbar-col | default: "#F5F5F5" }};
