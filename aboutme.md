@@ -11,4 +11,8 @@ Co-Determined! is a blog about progressive politics, cooperation, and goodwill. 
 
 I abstain from attaching my real name to my work, because I've had very negative previous experiences doing so. My pseudonym is Sineae, and I am a university student from Texas studying economics, mathematics and religion. I plan on going to grad school to study environmental/resource economics, and am interested in working in the policy world, especially in environmental & economic policy. 
 
-If you like the work I'm doing here, follow me on Twitter at @YeehawSineae, and consider tipping me on Venmo (@Sineae). College is expensive, and I take what I can get :-)
+If you like the work I'm doing here, follow me on Twitter at @YeehawSineae, and consider tipping me on Venmo (@Sineae). College is expensive, and I take what I can get!
+
+## Do You Need a Freelance Writer?
+
+As you can see, I'm a rather good writer. If you would like to hire me for some freelance work, rather that be in politics, lifestyle writing or some other domain, please feel free to shoot me an email at YeehawSineae@Gmail.com. Writing is not my profession, but I enjoy it profusely and would love to work with you to make some high-quality content. 
