@@ -1,4 +1,4 @@
----
+a---
 layout: null
 ---
 
@@ -45,7 +45,7 @@ h4 {
   font-size: 1.125rem;
 }
 a {
-  color: {{ site.link-col | default: "#008AFF" }};
+  color: {{ site.link-col | default: "#0345AD" }};
 }
 a:hover,
 a:focus {
