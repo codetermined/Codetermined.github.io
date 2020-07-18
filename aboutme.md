@@ -3,16 +3,19 @@ layout: page
 title: About
 subtitle: What is Co-Determined?
 ---
-## What is Co-Determined?
 
-Co-Determined! is a blog about progressive politics, cooperation, and goodwill. We have an ideological bent, writing from a sort of utopian, existentialist, social-democratic perspective. We are very interested in how government works and how it can be used to positively impact people's lives. 
+### What is Co-Determined?
 
-## Who is the Author?
+Co-Determined! is a blog about progressive politics, cooperation, and goodwill. 
 
-I abstain from attaching my real name to my work, because I've had very negative previous experiences doing so. My pseudonym is Sineae, and I am a university student from Texas studying economics, mathematics and religion. I plan on going to grad school to study environmental/resource economics, and am interested in working in the policy world, especially in environmental & economic policy. 
+I'm interested in one fundamental question: how do we structure society in the most just and equitable way? Everything I write flows from there. 
 
-If you like the work I'm doing here, follow me on Twitter at @YeehawSineae, and consider tipping me on Venmo (@Sineae). College is expensive, and I take what I can get!
+### Who is the Author?
 
-## Do You Need a Freelance Writer?
+I'm hesitant to post my real name online, so you can call me by my pseudonym, Sineae! 
+
+I'm a writer, web developer and professional opinion-haver based in Houston, Texas. I write about a wide range of subjects, ranging from government to history to agriculture to resource economics.
+
+### Do You Need a Freelance Writer?
 
 As you can see, I'm a rather good writer. If you would like to hire me for some freelance work, rather that be in politics, lifestyle writing or some other domain, please feel free to shoot me an email at YeehawSineae@Gmail.com. Writing is not my profession, but I enjoy it profusely and would love to work with you to make some high-quality content. 
