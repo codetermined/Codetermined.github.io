@@ -8,6 +8,8 @@ tags: [economics]
 
 ### Table of contents
 
+This is a rather long article, so for ease of use, I have included a table of contents. It traces the birth of the United States Forest Service from the work of Franklin Hough to its formalization under Gifford Pinchot and the first Roosevelt administration. 
+
 1. [Introduction](###The Forest Service )
 2. [The Hough Era](#section-2)
     - [The Special Agent](#subsection-a)
