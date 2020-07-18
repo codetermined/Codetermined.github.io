@@ -6,6 +6,13 @@ cover-img: /assets/img/forest.jpg
 tags: [economics]
 ---
 
+#### Table of contents
+
+1. [Section 1](#section-1)
+2. [Section 2](#section-2)
+    - [Subsection a](#subsection-a)
+    - [Subsection b](#subsection-b)
+    
 ### The Forest Service:
 
 This time a century ago, the Forest Service was a tiny and insignificant branch of the American government. Today, it administers 10% of the American landmass. 
