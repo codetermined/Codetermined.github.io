@@ -18,4 +18,10 @@ I'm a writer, web developer and professional opinion-haver based in Houston, Tex
 
 ### Do You Need a Freelance Writer?
 
-As you can see, I'm a rather good writer. If you would like to hire me for some freelance work, rather that be in politics, lifestyle writing or some other domain, please feel free to shoot me an email at YeehawSineae@Gmail.com. Writing is not my profession, but I enjoy it profusely and would love to work with you to make some high-quality content. 
+As you can see, I'm a rather good writer. If you would like to hire me for some freelance work, rather that be in politics, lifestyle writing or some other domain, please feel free to shoot me an email at YeehawSineae@Gmail.com. 
+
+I am an extremely competent and flexible writer, and you don't have to go very far to see evidence of that.
+
+### Want to help support the blog?
+
+Give me a tip. My Venmo is @Sineae. If you've enjoyed my content at all, please consider tipping me $5-$10. Writing takes a tremednous amount of time, and my financial situation is subpar. That money will probably go towards helping me offset my college debt. Thank you :-)
