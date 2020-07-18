@@ -2,7 +2,7 @@
 layout: post
 title: Sarah Gordon is Cute
 subtitle: I really cannot stress this enough
-cover-img: /assets/img/sarah.jpg
+cover-img: /assets/img/blue.jpg
 tags: [economics]
 ---
 
