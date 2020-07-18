@@ -6,12 +6,16 @@ cover-img: /assets/img/forest.jpg
 tags: [economics]
 ---
 
-#### Table of contents
+### Table of contents
 
-1. [Section 1](#section-1)
-2. [Section 2](#section-2)
-    - [Subsection a](#subsection-a)
-    - [Subsection b](#subsection-b)
+1. [Introduction](###The Forest Service )
+2. [The Hough Era](#section-2)
+    - [The Special Agent](#subsection-a)
+    - [The Division of Forestry](#subsection-b)
+3. [The Fernow Era](google.com)
+    - [The Professionalization of the Forest Service](google.com)
+4. [The Pinchot Era](google.com)
+    - [Roosevelt & the Forest Service](google.com)
     
 ### The Forest Service:
 
