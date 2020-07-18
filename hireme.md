@@ -3,11 +3,9 @@ layout: page
 title: Hire me!
 subtitle: Freelance writing work
 ---
-### Do you need a freelance writer?
-### Like my writing? Hire me!
 
-I am a freelance writer, and a damn good one at that. You can consider this blog a portfolio. I write on a wide range of subjects, ranging from politics to history to biology to lifestyle content. 
-  
-### Like my writing, but don't need any work? Tip me! 
+### Do You Need a Freelance Writer?
 
-I'm also a college student, which is a rather expensive thing to be. If you enjoy my content, consider tipping me $5-$10 on Venmo (@Sineae). 
+As you can see from my blog, I write frequently. I am also rather good at it. I've freelanced on occasion, and if you would like to contract my services, please feel free to contact me by email at SineaeTheYid@Gmail.com.
+
+I am a flexible, competent writer who produces high-quality work rapidly. I am well-read and extremely good at absorbing information, which enables me to write cohesively about a wide range of topics.
