@@ -1,25 +1,27 @@
 ---
 layout: post
-title: Sarah Gordon is Cute
-subtitle: I really cannot stress this enough
-cover-img: /assets/img/blue.jpg
+title: This Land is Our Land
+subtitle: A History of the U.S. Forest Service
+cover-img: /assets/img/forest.jpg
 tags: [economics]
 ---
 
-### Sarah Gordon:
+### The Forest Service:
 
-Sarah Gordon is cute. The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. I'm going to repeat this text over and over so that one can accurately gauge whether or not my web design is halfway decent. Sarah Gordon is cute. The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. 
+This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool!
 
-I'm going to repeat this text over and over so that one can accurately gauge whether or not my web design is halfway decent. Sarah Gordon is cute. The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. I'm going to repeat this text over and over so that one can accurately gauge whether or not my web design is halfway decent.
+This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool! This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool! This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool!
 
-Sarah Gordon is cute. The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. I'm going to repeat this text over and over so that one can accurately gauge whether or not my web design is halfway decent. Sarah Gordon is cute. The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. I'm going to repeat this text over and over so that one can accurately gauge whether or not my web design is halfway decent. 
+ This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool!
+ 
+  This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool! This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool!
+  
+### The Forest Service:
 
-Sarah Gordon is cute. The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. I'm going to repeat this text over and over so that one can accurately gauge whether or not my web design is halfway decent. Sarah Gordon is cute.
+This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool!  This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool!
 
-The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. I'm going to repeat this text over and over so that one can accurately gauge whether or not my web design is halfway decent. Sarah Gordon is cute. The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. I'm going to repeat this text over and over so that one can accurately gauge whether or not my web design is halfway decent.
-
-Sarah Gordon is cute. The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. I'm going to repeat this text over and over so that one can accurately gauge whether or not my web design is halfway decent.
-
-Sarah Gordon is cute. The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. I'm going to repeat this text over and over so that one can accurately gauge whether or not my web design is halfway decent. Sarah Gordon is cute. The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. I'm going to repeat this text over and over so that one can accurately gauge whether or not my web design is halfway decent. Sarah Gordon is cute. The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. I'm going to repeat this text over and over so that one can accurately gauge whether or not my web design is halfway decent.
-
-Sarah Gordon is cute. The cutest. I really cannot stress this enough - she is adorable, delightful, and astounding. 
+This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool! This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool! This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool! This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool!
+ 
+This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool!
+  
+This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool! This is a blog post about the founding of the U.S. Forest Service. It's a pretty rad topic. I'll be quick, but seriously, pay attention - it is very cool!
