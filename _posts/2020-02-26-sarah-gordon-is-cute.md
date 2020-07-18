@@ -10,7 +10,7 @@ tags: [economics]
 
 This is a rather long article, so for ease of use, I have included a table of contents. It traces the birth of the United States Forest Service from the work of Franklin Hough to its formalization under Gifford Pinchot and the first Roosevelt administration. 
 
-1. [Introduction](###The Forest Service )
+1. [Introduction](### The Forest Service)
 2. [The Hough Era](#section-2)
     - [The Special Agent](#subsection-a)
     - [The Division of Forestry](#subsection-b)
@@ -19,6 +19,8 @@ This is a rather long article, so for ease of use, I have included a table of co
 4. [The Pinchot Era](google.com)
     - [Roosevelt & the Forest Service](google.com)
     
+To use this, simply click on the link you want to jump to. Thank you for reading, and have a wonderful day :-) 
+
 ### The Forest Service:
 
 This time a century ago, the Forest Service was a tiny and insignificant branch of the American government. Today, it administers 10% of the American landmass. 
