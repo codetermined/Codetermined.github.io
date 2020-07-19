@@ -21,13 +21,13 @@ This is a rather long article, so for ease of use, I have included a table of co
     
 To use this, simply click on the link you want to jump to. Thank you for reading, and have a wonderful day :-) 
 
-### The Forest Service:
+## Introduction:
 
 This time a century ago, the Forest Service was a tiny and insignificant branch of the American government. Today, it administers 10% of the American landmass. 
 
 The concept behind the Forest Service seems rather banal to modern sensibilities: we ought to manage one of our most critical natural resources, the forests, in a systemic, cohesive and sustainable way. But truthfully, it was rather revolutionary.
 
-### Franklin Hough’s Rise and Fall: 
+## Franklin Hough’s Rise and Fall: 
 
 In many ways, the U.S. Forest Service was born on the western edges of the Adirondack mountains of New York. Franklin Hough, often credited as the father of American forestry, was the son of a yankee physician in a quaint town upstate. His father was often the only physician in the area, and tended to the everyday medical needs of his community. 
 
@@ -40,6 +40,8 @@ He was the Benjamin Franklin of American forestry. He was a soft and tender man 
 Hough was appointed to supervise the 1865 New York state census, and realized something critical: the supply of AMerican lumber was declining rapidly. The economic and ecological implications of this were horrific, and Hough took it upon himself to compile as much research on this lumber shortage as humanly possible. 
 
 A decade later, with further evidence uncovered during the 1870 census, Hough gave a riling presentation to the American Association for the Advancements of Science.
+
+### The Special Agent
 
 His report was titled “On the Duty of Governments in the Preservation of Forests.” It was a scathing critique of American management of Her natural resources, and Hough drew a damning picture of the future awaiting us if we did not act. We would, he argued, look much like the Middle East: a previously fertile and prosperous region turned to wasteland due to the exploitation and enslavement of nature. 
 
@@ -54,6 +56,8 @@ As Hough’s profile rose, so did his friends and enemies. One ally that Hough f
 Hough was appointed to this position, and rapidly compiled incontrovertible evidence of the crippled and over-exploited state of American forests. This exploitation was a mistake “made without a thought as to the probable wants of the future, for timber is both a supply of crucial materials for building and a shelter from the sweeping winds.” 
 
 Hough was paid nothing, and given very little funding to conduct his research. Nevertheless, he travelled across the country (using his free access to railroads) to compile a tremendous volume of data. He published his first Congressional report, and the results struck the Congress. 
+
+### The Division of Forestry 
 
 And thus, the Division of Forestry was born, the direct predecessor to today’s Forest Service. Hough served as its first chief, laying the frameworks for modern American forestry. He established clubs, encouraged schools to plant trees on arbor day, and produced groundbreaking research. 
 
