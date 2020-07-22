@@ -3,12 +3,18 @@ layout: post
 title: This Land is Our Land
 subtitle: A History of the U.S. Forest Service
 cover-img: /assets/img/forest.jpg
-tags: [economics]
+tags: [forestry]
 ---
+
+Forestry is, put simply, the science of taming forests. Foresters seek to not only understand how forests work, but how humans can interact with them. Foresters maintain our forests, expand them, and work to intercept and avert potential threats. This work is crucial and highly relevant to the subject matter of this blog, which is focused on how Americans can work together to collectively improve our country. 
+
+Nature is our mutual inheritance: every person has a right to enjoy it. Foresters, at least in the public sector, are the folks tasked with upholding that right from those who seeks to exploit and degrade our inheritance. The Forest Service is the formal body within the American government tasked with maintaining our country's publicly-owned forests, as well as providing private landowners with the resources necessary to maintain their forests properly. 
+
+The Forest Service has a long and storied history, and throughout this article, I hope to walk you through its founding narrative. 
 
 ### Table of contents
 
-This is a rather long article, so for ease of use, I have included a table of contents. It traces the birth of the United States Forest Service from the work of Franklin Hough to its formalization under Gifford Pinchot and the first Roosevelt administration. 
+This is a rather long article, so for ease of use, I have included a table of contents. It traces the birth of the United States Forest Service from the work of Franklin Hough to its formalization under Gifford Pinchot and the Theodore Roosevelt administration. 
 
 1. [Introduction](### The Forest Service)
 2. [The Hough Era](#section-2)
