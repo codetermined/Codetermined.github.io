@@ -22,46 +22,38 @@ This is a rather long article, so for ease of use, I have included a table of co
     - [The Division of Forestry](#subsection-b)
 3. [The Fernow Era](google.com)
     - [The Professionalization of the Forest Service](google.com)
-4. [The Pinchot Era](google.com)
+4. [The Pinchot Era](google.co
     - [Roosevelt & the Forest Service](google.com)
     
 To use this, simply click on the link you want to jump to. Thank you for reading, and have a wonderful day :-) 
 
 ## Introduction:
 
-This time a century ago, the Forest Service was a tiny and insignificant branch of the American government. Today, it administers 10% of the American landmass. 
-
-The concept behind the Forest Service seems rather banal to modern sensibilities: we ought to manage one of our most critical natural resources, the forests, in a systemic, cohesive and sustainable way. But truthfully, it was rather revolutionary.
+The concept underlying the Forest Service seems rather banal to modern sensibilities: we ought to sustainably manage our most critical natural resource, the forests. But, for much of our history, we did not do this (and frankly, we do not do a particularly good job today). The formation of the Forest Service represented a sharp break, and ultimately a new vision for the role of government. The conservationists and foresters argued that the role of the government was not only in preserving the rights of individual people, but more broadly, in preserving our rights to share in the bounty of the Earth. 
 
 ## Franklin Hough’s Rise and Fall: 
 
-In many ways, the U.S. Forest Service was born on the western edges of the Adirondack mountains of New York. Franklin Hough, often credited as the father of American forestry, was the son of a yankee physician in a quaint town upstate. His father was often the only physician in the area, and tended to the everyday medical needs of his community. 
+In many ways, the U.S. Forest Service was born on the western edges of the Adirondack mountains of New York. Franklin Hough, often credited as the founder of American forestry, was the son of a yankee physician in a quaint town upstate. His father was often the only doctor in the area, and tended to the everyday medical needs of his community. 
 
-Franklin followed in his father’s footsteps. Yet, he was not content merely being a doctor. On the outskirts of the Adirondacks, Franklin Hough developed a consuming and obsessive love of the natural world. He accumulated volumes of research early on in his medical practice, and even discovered a local mineral that we now call Houghite. 
+From a young age, Franklin was continually exposed to untouched nature. The Adirondacks shaped Hough, and through his work, would later become the site of one of America's first great conservation efforts. He was known for being a serial hiker, and possessing an endless fascination with the mountains' minerals - a fascination so great that he would discover his own, a hydrated oxid of aluminum and magnesium that we now call Houghite. 
 
-His work was impressively thorough, quickly garnering the attention of locals. The fascinating thing about Hough is the sheer breadth of his knowledge. He was an accomplished physician, a competent biologist, a legendary statistician, a well-versed historian, and a revolutionary forester. 
+Hough became a doctor like his father, but he never stopped loving the Adirondacks and the natural world. While practicing medicine, he compiled volume upon volume of research on local biology and geology. The sheer thoroughness of his work was nearly unmatched, and the breadth at which he wrote and researched was astounding. Franklin Hough, a soft and gentle man who spoke little, rapidly became a phenomenon in the scientific community. He was a Benjamin Frankin figure: one who knew much about everything.
 
-He was the Benjamin Franklin of American forestry. He was a soft and tender man who spoke little and wrote endlessly and of everything. 
-
-Hough was appointed to supervise the 1865 New York state census, and realized something critical: the supply of AMerican lumber was declining rapidly. The economic and ecological implications of this were horrific, and Hough took it upon himself to compile as much research on this lumber shortage as humanly possible. 
-
-A decade later, with further evidence uncovered during the 1870 census, Hough gave a riling presentation to the American Association for the Advancements of Science.
+Hough became distinguished not only as a doctor, but as a biologist, historian, statistician, and eventually a crusader. 
 
 ### The Special Agent
 
-His report was titled “On the Duty of Governments in the Preservation of Forests.” It was a scathing critique of American management of Her natural resources, and Hough drew a damning picture of the future awaiting us if we did not act. We would, he argued, look much like the Middle East: a previously fertile and prosperous region turned to wasteland due to the exploitation and enslavement of nature. 
+Due to his repute as an extremely accomplished statistician, Hough was appointed to supervise the 1865 New York state census. It was here that he realized something critical: due to the economic expansion driven by the civil war, the supply of local lumber was rapidly declining, especially in the Adirondacks. The economic and environmental impacts of this cannot be understated. 
 
-His calls for land use regulations, conservation efforts, and the establishment of professional forestry infrastructure was so loud and so clear that the AAAS instantly rallied behind him and formed a committee to lobby the government. It consisted of nine brilliant foresters, agriculturalists, botanists and anthropologists. 
+A decade later, with further evidence backing up his fears from the 1870 census, Hough gave a riling presentation to the American Association for the Advancements of Science, titled "On tbe Duty of Governments in the Preservation of Forests." It was a scathing critique of American resource management. If we did not act, Hough warned, we would look much like the Middle East: ravaged by deforestation and environmental calamity. 
 
-Hough chaired this committee, and our softly-spoken protagonist launched his crusade. 
+The AAAS promptly formed a committee to lobby the government, one of the first acts of environmental activism in American history. Hough was appointed to chair this committee, consisting of some of the most brilliant men in American science. He became a crusader.
 
-He rapidly became the public face of the American conservation movement. He rapidly rose to the top of several major American forests organizations, and clearly articulated a national interest in preserving and protecting our natural resources. 
+With the assistance of Congressman Mark Dunnell of Minnesota, the backing of the American scientific community, and his personal array of connections, Hough managed to wrangle Congress into establishing the "Office of the Special Agent" in the Department of Agriculture, given a mandate to study and analyze the conditions of American forests. 
 
-As Hough’s profile rose, so did his friends and enemies. One ally that Hough found in Congress was Rep. Mark Dunnell of Minnesota, a stalwart conservationist. Dunnell wrangled Congress into establishing the Office of the Special Agent in the Department of Agriculture, with a mandate to understand the conditions of American forests. 
+Hough was appointed to this position. He was paid very little and given near zero resources, except for free access to American railways. He travelled the country by rail, compiling tremendous volumes of research and incontrovertible evidence of the crippled and over-exploited state of American forests. This exploitation was a mistake “made without a thought as to the probable wants of the future" for "timber is both the flesh of American industry, and a shelter from sweeping winds.” 
 
-Hough was appointed to this position, and rapidly compiled incontrovertible evidence of the crippled and over-exploited state of American forests. This exploitation was a mistake “made without a thought as to the probable wants of the future, for timber is both a supply of crucial materials for building and a shelter from the sweeping winds.” 
-
-Hough was paid nothing, and given very little funding to conduct his research. Nevertheless, he travelled across the country (using his free access to railroads) to compile a tremendous volume of data. He published his first Congressional report, and the results struck the Congress. 
+Hough's first report to Congress was so long that they demanded he rewrite it, capping the length at 650 pages. The politicians were convinced.
 
 ### The Division of Forestry 
 
