@@ -31,7 +31,14 @@ To use this, simply click on the link you want to jump to. Thank you for reading
 
 The concept underlying the Forest Service seems rather banal to modern sensibilities: we ought to sustainably manage our most critical natural resource, the forests. But, for much of our history, we did not do this (and frankly, we do not do a particularly good job today). The formation of the Forest Service represented a sharp break, and ultimately a new vision for the role of government. The conservationists and foresters argued that the role of the government was not only in preserving the rights of individual people, but more broadly, in preserving our rights to share in the bounty of the Earth. 
 
-## Franklin Hough’s Rise and Fall: 
+Below is a map of all lands currently held by the National Forest Service - roughly 10% of our country's landmass. There are 154 seperate National Forests, which are distinct from National Parks. National forests are defined by their multi-use nature. They are simply publicly-owned plots of land that are managed sustainably by the Forest Service, and often provide a wide mix of lumber, grazing, recreation & mineral access to the American people. 
+
+![Map of the National Forest Service Holdings](/assets/img/nfsmap.png)
+
+## The Acquisition of American Public Lands
+
+## The Birth of the Forest Service
+### Franklin Hough’s Rise and Fall: 
 
 In many ways, the U.S. Forest Service was born on the western edges of the Adirondack mountains of New York. Franklin Hough, often credited as the founder of American forestry, was the son of a yankee physician in a quaint town upstate. His father was often the only doctor in the area, and tended to the everyday medical needs of his community. 
 
