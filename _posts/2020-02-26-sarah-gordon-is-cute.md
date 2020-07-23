@@ -65,3 +65,8 @@ Hough’s crusade never let up, and he made both friends and enemies until the v
 
 Hough’s Forest Service was merely a shell of what it would become. Hough’s attempts to promote true forest management were upended by politicians, and the Division of Forestry merely remained a source of information for landowners and agriculturalists. But it had promise - promise enough to become one of the most complex and ambitious agencies in the United States government. 
 
+
+
+//Yellowstone
+//Adirondacks 
+//National Parks v. National Forests 
